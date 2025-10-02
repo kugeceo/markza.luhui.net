@@ -28,6 +28,10 @@ Markza 是一款直观易用的在线标志设计工具，旨在帮助用户无�
 - 主站点：[markza.luhui.net](https://markza.luhui.net)
 - 自由绘制演示：[markza.luhui.net/freedraw-demo.html](https://markza.luhui.net/freedraw-demo.html)
 
+![演示截图](http://markza.luhui.net/markzascreenshots.jpg)
+
+![演示截图](http://markza.luhui.net/markzascreenshots1.jpg)
+
 ## 本地安装与运行
 
 ### 前提条件
